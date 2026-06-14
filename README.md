@@ -58,7 +58,7 @@ O projeto foi desenvolvido para aplicar conceitos de modelagem de banco de dados
 
 ## 📷 Diagrama Entidade-Relacionamento
 
-![DER Spotify](Der_spotify(4).png)
+![DER Spotify](DER_Spotify.png)
 
 ---
 
